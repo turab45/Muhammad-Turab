@@ -14,7 +14,8 @@ I have completed my Bachelor's degree in Computer Systems Engineering at [Mehran
 
 
 <span style="color: red;">**News**</span>
-* March 2024: Working on master thesis at Hubert Curien Laboratory, UJM France
-* September 2023: Started third semester at University of Eastern Finland
-* February 2023: Started second semester at University Jean Monnet, France
-* September 2022: Started EMJMD COSI program at NTNU, Norway
+* September 2024: Started third semester at University of Eastern Finland
+* July 2024: Started internship at [Colourlab, NTNU](https://www.ntnu.edu/colourlab)
+* January 2024: Started second semester at University Jean Monnet, France
+* August 2023: Started EMJMD COSI program at NTNU, Norway
+* January 2022: Sarted internshipt at [University of Galway, Ireland](https://www.universityofgalway.ie/) under the supervision of Prof Takfarinas Saber.
