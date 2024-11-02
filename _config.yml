@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Muhammad Turab"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Muhammad Turab"
+description              : &description "Erasmus Mundus Scholar in Computational Color and Spectral Imaging (COSI) at NTNU, Norway, University of Jean Monnet, France, and University of Eastern Finland, Finland."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "turab45/turab45.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "profile-pic.png"
   name             : "Muhammad Turab"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Erasmus Mundus Scholar in Computational Color and Spectral Imaging (COSI) at NTNU, Norway, University of Jean Monnet, France, and University of Eastern Finland, Finland."
   location         : "Saint Etiene, France"
   employer         : "University of Jean Monnet"
   uri              : # URL
