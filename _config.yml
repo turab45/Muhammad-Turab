@@ -21,7 +21,7 @@ repository               : "turab45/turab45.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   name             : "Muhammad Turab"
   pronouns         : # example: "she/her"  
   bio              : "Erasmus Mundus Scholar in Computational Color and Spectral Imaging (COSI) at NTNU, Norway, University of Jean Monnet, France, and University of Eastern Finland, Finland."
