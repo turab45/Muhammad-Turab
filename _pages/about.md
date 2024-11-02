@@ -14,7 +14,7 @@ I have completed my Bachelor's degree in Computer Systems Engineering at [Mehran
 
 
 <span style="color: red;">**News**</span>
-* October 2024: Selected masters thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), UJM France
+* October 2024: Selected masters thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), UJM France under the supervision of [Prof. Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/)
 * September 2024: Started third semester at University of Eastern Finland
 * July 2024: Started internship at [Colourlab, NTNU](https://www.ntnu.edu/colourlab) under the European project [Perceive-Horizon](https://perceive-horizon.eu/)
 * January 2024: Started second semester at University Jean Monnet, France
