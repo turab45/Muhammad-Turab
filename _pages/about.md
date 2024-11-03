@@ -20,7 +20,7 @@ I am broadly interested in Computer Vision, Image Processing, Medical Imaging, D
 * October 2024: Selected masters thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), UJM France under the supervision of [Prof. Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/)
 * September 2024: Started third semester at University of Eastern Finland
 * July 2024:
-  - Started Machine learning summer school at [Oxford University](https://www.oxfordml.school/).
+  - Started Machine learning summer school at [Oxford University](https://www.oxfordml.school/) organized by [AI for Global Goals](https://www.globalgoals.ai/).
   - Started internship at [Colourlab, NTNU](https://www.ntnu.edu/colourlab) under the European project [Perceive-Horizon](https://perceive-horizon.eu/)
 * January 2024: Started second semester at University Jean Monnet, France
 * August 2023: Started EMJMD COSI program at NTNU, Norway
