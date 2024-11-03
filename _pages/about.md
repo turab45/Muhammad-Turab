@@ -11,7 +11,7 @@ I am Erasmus Mundus Joint masters degree student in [Computational Color and Spe
 
 I have completed my Bachelor's degree in Computer Systems Engineering at [Mehran University of Engineering and Technology](https://www.muet.edu.pk/), Jamshoro, Pakistan. I have worked as a Research Assistant at the [Department of Computer Systems Engineering](https://cs.muet.edu.pk/) under the supervision of Dr. Shahnawaz Talpur where I worked on various projects related to image processing, computer vision, and machine learning, and published research papers in reputed journals and conferences.
 
-<span style="color: red;">Research</span>
+<span style="color: red;">**Research**</span>
 I am broadly interested in Computer Vision, Image Processing, Medical Imaging, Domain Generalization, eXplainable AI and their applications to real-world problems. I am particularly interested in building reliable (robust) systems that model visual perception with limited supervision and generalizability to unseen domains.
 
 
