@@ -17,11 +17,12 @@ I am broadly interested in Computer Vision, Image Processing, Medical Imaging, D
 
 
 <span style="color: red;">**News**</span>
-* October 2024: Selected masters thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), UJM France under the supervision of [Prof. Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/)
-* September 2024: Started third semester at University of Eastern Finland
-* July 2024:
+* <b>November 2024</b>: Our paper has been accepted in IPAS 2025 held in Lyon France.
+* <b>October 2024</b>: Selected masters thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), UJM France under the supervision of [Prof. Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/)
+* <b>September 2024</b>: Started third semester at University of Eastern Finland
+* <b>July 2024</b>:
   - Started Machine learning summer school at [Oxford University](https://www.oxfordml.school/) organized by [AI for Global Goals](https://www.globalgoals.ai/).
   - Started internship at [Colourlab, NTNU](https://www.ntnu.edu/colourlab) under the European project [Perceive-Horizon](https://perceive-horizon.eu/)
-* January 2024: Started second semester at University Jean Monnet, France
-* August 2023: Started EMJMD COSI program at NTNU, Norway
-* January 2022: Sarted internshipt at [University of Galway, Ireland](https://www.universityofgalway.ie/) under the supervision of [Prof Takfarinas Saber](https://www.universityofgalway.ie/our-research/people/computer-science/takfarinassaber/).
+* <b>January 2024</b>: Started second semester at University Jean Monnet, France
+* <b>August 2023</b>: Started EMJMD COSI program at NTNU, Norway
+* <b>January 2022</b>: Sarted internshipt at [University of Galway, Ireland](https://www.universityofgalway.ie/) under the supervision of [Prof Takfarinas Saber](https://www.universityofgalway.ie/our-research/people/computer-science/takfarinassaber/).
