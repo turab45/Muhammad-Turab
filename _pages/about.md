@@ -17,7 +17,7 @@ I am broadly interested in Computer Vision, Image Processing, Medical Imaging, D
 
 
 <span style="color: red;">**News**</span>
-* <b>November 2024</b>: Our paper has been accepted in IPAS 2025 held in Lyon France.
+* <b>November 2024</b>: Our paper has been accepted in [IPAS 2025](https://ipas.ieee.tn/) held in Lyon France.
 * <b>October 2024</b>: Selected masters thesis at [Hubert Curien Laboratory](https://laboratoirehubertcurien.univ-st-etienne.fr/en/index.html), UJM France under the supervision of [Prof. Alain Tremeau](https://perso.univ-st-etienne.fr/tremeaua/)
 * <b>September 2024</b>: Started third semester at University of Eastern Finland
 * <b>July 2024</b>:
